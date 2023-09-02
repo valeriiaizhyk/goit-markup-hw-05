@@ -881,7 +881,6 @@ img {
 }
 
 .modal-check-span {
-  display: inline-flex;
 }
 
 .modal-check-link {
@@ -893,6 +892,7 @@ img {
 }
 
 .modal-check-text span {
+  display: inline-flex;
   width: 16px;
   height: 16px;
   flex-shrink: 0;
